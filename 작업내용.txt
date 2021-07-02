@@ -1,6 +1,11 @@
 작업 내용.....111122222
 
+git config credential.helper store
+
+git add . 
 
 cls  = 모두삭제
 
 dir /w = 전부 표시
+
+sdasdasd
