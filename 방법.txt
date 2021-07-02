@@ -1,0 +1,17 @@
+github.com 에 자료 올리기 
+
+cmd ->
+
+CD.. (이전경로)
+
+D: (D로 가기)
+
+Cd html ( html 폴더로 들어가기)
+
+git add.
+
+git commit -m "change"
+
+git push 
+
+
